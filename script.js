@@ -45,4 +45,5 @@
   git reset
   git checkout : Branch değiştir
   git checkout -b : Branch oluştur
+  git pull
 */
