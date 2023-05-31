@@ -42,4 +42,7 @@
   git add -A
   git status
   git commit
+  git reset
+  git checkout : Branch değiştir
+  git checkout -b : Branch oluştur
 */
